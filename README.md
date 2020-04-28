@@ -10,7 +10,7 @@ Command line application that output to STDOUT a predefined JSON file.
 
 - Download zip and unzip.
 - Open project through Netbeans and run
-- If you either wish to clone and import project, instead downloading file, you must have to download HackerNews.JSON and allocate it on the project folder
+<!---If you either wish to clone and import project, instead downloading file, you must have to download HackerNews.JSON and allocate it on the project folder--->
 
 ## Libraries
 - java.io.FileReader: Constructors and methods to read a generic file
