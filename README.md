@@ -4,11 +4,13 @@ Command line application that output to STDOUT a predefined JSON file.
 
 ## Installation
 
-Install JDK Netbeans (preferably version 8.2)
+- Install JDK Netbeans (preferably version 8.2)
 
 ## Usage
 
-Open and run project with Netbeans
+- Download zip and unzip.
+- Open project through Netbeans and run
+- If you either wish to clone and import project, instead downloading file, you must have to download HackerNews.JSON and allocate it on the project folder
 
 ## Libraries
 - java.io.FileReader: Constructors and methods to read a generic file
