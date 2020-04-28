@@ -11,7 +11,7 @@ Command line application that output to STDOUT a predefined JSON file.
 - Download zip and unzip.
 - Open project through Netbeans and run
 
-**NOTE** If you either wish to clone and import the project directly to Netbeans, you must download HackerNews.JSON and allocate it on the project folder
+**NOTE** If you either wish to clone and import the project directly to Netbeans, you must download HackerNews.json and allocate it on the project folder
 
 
 ## Libraries
